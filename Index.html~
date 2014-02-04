@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="stylesheet.css">
+<title>
+Alpaquita
+</title>
+<body>
+<div id="header">
+
+	<div id="nav">
+	<ul> 
+	<li> Principal	</li>
+	<li>Contenido </li>
+	</ul>
+	</div>
+
+</div>
+
+
+
+
+
+
+
+
+<figure>
+<img src="img/Alpaca.jpg" alt="Alpaquita" />
+</figure>
+</body>
+</head>
+</html>
